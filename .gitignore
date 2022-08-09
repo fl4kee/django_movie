@@ -1,0 +1,9 @@
+.idea
+db.sqlite3
+prod_settings.py
+local_settings.py
+media
+media/*
+venv
+__pycache__
+*/__pycache__/
